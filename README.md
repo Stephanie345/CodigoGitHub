@@ -1,4 +1,4 @@
-:bulb: # CodigoGitHub
+# :bulb: CodigoGitHub
 Códigos essenciais para utilizar no terminal 
 
 ### Inicializar repositório
