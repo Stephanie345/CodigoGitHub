@@ -1,15 +1,20 @@
 # CodigoGitHub
 Códigos essenciais para utilizar no terminal 
 
-### 
+### Inicializar repositório
 $ git init
 
-### git status
+### Ver o status, se há alguma modificação 
+$ git status
 
-### git add . || git add --all
+### Adicionar as alterações 
+$ git add . || git add --all
 
-### git commit -m"fazer o comentario"
+### Escrever o que foi modificado
+$ git commit -m"fazer o comentario"
 
-### git pull- atualizar repositorio
+### Atualizar repositorio
+$ git pull
 
-### git push- mandar para o repositório
+### Mandar para o repositório
+$ git push
