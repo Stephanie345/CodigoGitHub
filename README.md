@@ -1,7 +1,8 @@
 # CodigoGitHub
 Códigos essenciais para utilizar no terminal 
 
-### git init
+### 
+$ git init
 
 ### git status
 
