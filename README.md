@@ -26,6 +26,6 @@ $ git checkout -b <nome da branch>
 $ git checkout <nome da branch>
   
 ### Deletar branch 
-obs.: tem que estar fora da branch que quer deletar
+<p>obs.: tem que estar fora da branch que quer deletar</p>
 $ git branch -D <nome da branch>
  
