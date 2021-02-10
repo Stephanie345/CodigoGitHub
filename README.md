@@ -18,3 +18,6 @@ $ git pull
 
 ### Mandar para o repositório
 $ git push
+
+### Deletar branch 
+$ git branch -D <nome da branch>
