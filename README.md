@@ -19,5 +19,11 @@ $ git pull
 ### Mandar para o repositório
 $ git push
 
+### Criando uma branch 
+$ git checkout -b <nome da branch>
+  
+### Acessando uma branch 
+$ git checkout <nome da branch>
+  
 ### Deletar branch 
 $ git branch -D <nome da branch>
