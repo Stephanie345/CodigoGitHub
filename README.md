@@ -4,6 +4,9 @@ Códigos essenciais para utilizar no terminal
 ### Inicializar repositório
 $ git init
 
+### Conectar repositório local no GitHub 
+$ git remote add origin <link do repositório do GitHub>
+
 ### Ver o status, se há alguma modificação 
 $ git status
 
